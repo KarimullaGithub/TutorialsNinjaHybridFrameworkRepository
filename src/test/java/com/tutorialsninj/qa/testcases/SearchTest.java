@@ -20,7 +20,7 @@ import com.tutorialsninj.qa.pages.SearchPage;
 
 
 //Upadted comment
-//Upadted comment once again 
+//Upadted comment once again - add more details 
 
 public class SearchTest extends Base{
 	
